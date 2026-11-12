@@ -1,0 +1,19 @@
+header{
+    border: 1px solid red;
+    width:100%;
+   
+}
+nav{
+    border: 1px solid royalblue;
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+.nav-logo{
+    width: 25%;
+    background-color: aqua;
+}
+.nav-link{
+    width: 75%;
+    background-color: brown;
+}
